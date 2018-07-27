@@ -1,0 +1,2 @@
+var recipes = {ingredient: 'amount'}
+
